@@ -1,4 +1,3 @@
-require 'active_support'
 module Password
   VERSION = '1.0.0'
   FILENAME = "#{ENV['HOME']}/.they_stole_my_facebook_login_oh_noez" # honestly, "security", who gives a shit
